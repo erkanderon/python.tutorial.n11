@@ -23,3 +23,7 @@ if __name__=="__main__":
 	horse = Horse("İnci", "sad", 4)
 	horse.describe()
 	horse.call()
+
+	# Decorators call
+
+
